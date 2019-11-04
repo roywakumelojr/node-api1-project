@@ -1,6 +1,6 @@
 # Node API Challenge
 
-## Topics
+## Topics.
 
 - Building a RESTful API.
 - Performing CRUD operations.
